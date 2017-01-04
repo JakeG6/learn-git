@@ -3,6 +3,8 @@
 learn-git
 =========
 
+THIS IS A BUNCH OF COMMIT TEXT!
+
 ##Objective
 Practice using git + Github
 
