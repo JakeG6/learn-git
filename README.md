@@ -4,6 +4,7 @@ learn-git
 =========
 
 THIS IS A BUNCH OF COMMIT TEXT!
+FUN FUN FUN!
 
 ##Objective
 Practice using git + Github
